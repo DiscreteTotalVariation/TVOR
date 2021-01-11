@@ -1,6 +1,6 @@
 # TVOR: Finding Discrete Total Variation Outliers among Histograms
 
-This is the repository with the source code and experiments that were conducted for the discrete total variation outlier detection method proposed in the paper "TVOR: Finding Discrete Total Variation Outliers among Histograms" by [Nikola Banić](https://scholar.google.com/citations?user=QSH8C_QAAAAJ&hl=en) and [Neven Elezović](https://scholar.google.com/citations?user=MlXwbFIAAAAJ&hl=en).
+This is the repository with the source code and experiments that were conducted for the discrete total variation outlier detection method proposed by [Nikola Banić](https://scholar.google.com/citations?user=QSH8C_QAAAAJ&hl=en) and [Neven Elezović](https://scholar.google.com/citations?user=MlXwbFIAAAAJ&hl=en) in the paper [TVOR: Finding Discrete Total Variation Outliers among Histograms](https://ieeexplore.ieee.org/document/9306761) that was published in the [IEEE Access](https://ieeeaccess.ieee.org/) scientific journal.
 
 ## Code
 
